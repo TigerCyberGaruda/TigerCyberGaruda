@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Facebokm Badge](https://img.shields.io/badge/-facebook.demias-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100087543837571.qwerty69/)](https://www.facebook.com/profile.php?id=100087543837571.qwerty69) [![Instagram Badge](https://img.shields.io/badge/-instagram.tiger01_sky-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tiger01_sky.qwerty_/)](https://www.instagram.com/tiger01_sky.qwerty_/) [![WhatsApp Badge](https://img.shields.io/badge/-6281331369655-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6281331369655/)](https://wa.me/6281331369655/) [![Github Badge](https://img.shields.io/badge/-TigerCyberGaruda-black?style=flat&logo=Github&logoColor=white&link=https://github.com/TigerCyberGaruda/)](https://github.com/TigerCyberGaruda) 
-### Helo ngab, [La Andre Jhi]() is here
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=TigerCyberGaruda alt=Tiger/> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=maskprivate1457&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari Github stats" /><br />
 
